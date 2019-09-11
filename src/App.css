@@ -107,3 +107,8 @@ nav > div i {
 .post-comments {
   margin-top: 20px;
 }
+
+.comment {
+  margin-top: 20px;
+  display: flex;
+}
