@@ -92,3 +92,8 @@ nav > div i {
   height: 32px;
   border-radius: 50%;
 }
+
+.post-content {
+  margin-top: 15px;
+  font-size: 14px;
+}
