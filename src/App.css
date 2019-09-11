@@ -112,3 +112,11 @@ nav > div i {
   margin-top: 20px;
   display: flex;
 }
+
+.comment p {
+  border-radius: 20px;
+  background: #eeeeee;
+  margin-left: 10px;
+  padding: 15px;
+  font-size: 13px;
+}
