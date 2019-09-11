@@ -103,3 +103,7 @@ nav > div i {
   height: 1px;
   background: #eeeeee;
 }
+
+.post-comments {
+  margin-top: 20px;
+}
