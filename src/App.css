@@ -120,3 +120,8 @@ nav > div i {
   padding: 15px;
   font-size: 13px;
 }
+
+.comment span {
+  font-weight: bold;
+  margin-right: 6px;
+}
