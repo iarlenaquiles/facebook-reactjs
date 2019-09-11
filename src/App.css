@@ -84,3 +84,11 @@ nav > div i {
   font-weight: bold;
   margin-bottom: 3px;
 }
+
+.avatar {
+  min-height: 32px;
+  min-width: 32px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
