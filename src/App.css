@@ -13,6 +13,11 @@ body,
   height: 100%;
 }
 
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #f2f2f2;
+}
+
 header {
   background: #4a90e2;
   display: flex;
@@ -42,4 +47,9 @@ nav > span {
 nav > div i {
   margin-left: 8px;
   vertical-align: middle;
+}
+
+.postlist {
+  width: 700px;
+  margin: 0 auto 20px;
 }
